@@ -1,0 +1,12 @@
+v 1.0.0
+d 'HDPS': implementing hdps approaches
+d 
+d Distribution-Date:   20210605
+d License: MIT
+d 
+F hdps.ado
+F hdps_graphics.ado
+F hdps_prevalence.ado
+F hdps_prioritize.ado
+F hdps_recurrence.ado
+F hdps_setup.ado
