@@ -5,8 +5,14 @@ d Distribution-Date:   20210605
 d License: MIT
 d 
 F hdps.ado
+F hdps.sthlp
 F hdps_graphics.ado
+F hdps_graphics.sthlp
 F hdps_prevalence.ado
+F hdps_prevalence.sthlp
 F hdps_prioritize.ado
+F hdps_prioritize.sthlp
 F hdps_recurrence.ado
+F hdps_recurrence.sthlp
 F hdps_setup.ado
+F hdps_setup.sthlp
