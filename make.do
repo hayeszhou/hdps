@@ -11,5 +11,5 @@ make hdps,  toc pkg  version(1.0.0)                                          ///
      url("")                                                                 ///
      title("implementing hdps approaches")                                   ///
      description("")                                                         ///
-     install("hdps_graphics.ado;hdps_prioritize.ado;hdps_prevalence.ado;hdps_recurrence.ado;hdps_setup.ado;hdps.ado") ///
+     install("hdps_graphics.ado;hdps_graphics.sthlp;hdps_prioritize.ado;hdps_prioritize.sthlp;hdps_prevalence.ado;hdps_prevalence.sthlp;hdps_recurrence.ado;hdps_recurrence.sthlp;hdps_setup.ado;hdps_setup.sthlp;hdps.ado;hdps.sthlp") ///
      ancillary("")                                                         
